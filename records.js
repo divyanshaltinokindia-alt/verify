@@ -50,5 +50,8 @@ window.CREDENTIALS = {
   },
   "MIDAS-BMC-2026-0013": {
     "name": "Suman Sharan Singh"
+  },
+  "MIDAS-BMC-2026-0014": {
+    "name": "Brajesh Kumar"
   }
 };
